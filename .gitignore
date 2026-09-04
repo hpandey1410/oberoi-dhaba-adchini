@@ -1,0 +1,6 @@
+# Raw, unprocessed source photos (originals live outside the deploy folder)
+AHRPTW*
+assets/source/
+
+# OS cruft
+.DS_Store
